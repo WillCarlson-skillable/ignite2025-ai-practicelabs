@@ -1,6 +1,7 @@
 <div style="text-align: right"><small>Page 1 of 2</small></div>
 
 !IMAGE[PRACTICE_LABS_LOGO.png](/images/PRACTICE_LABS_LOGO.png)
+<br>
 
 @lab.Title
 
