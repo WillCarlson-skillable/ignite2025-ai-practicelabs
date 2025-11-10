@@ -29,7 +29,7 @@ On the next page you will see the AI Practice Generator. It is made up of four k
 | Control | Description | Image |
 | ------- | ----------- | :-----: |
 | Style selector | Used to select the style your response will be provided in. | !IMAGE[AI_Practice_Lab_Style_Selector.png](/images/AI_Practice_Lab_Style_Selector.png){100} |
-| Prompt box | Field used to ask AI Practice whatever question you want. | !IMAGE[AI_Practice_Lab_Prompt_Box.png](/images/AI_Practice_Lab_Prompt_Box.png){100} |
+| Prompt box | Field used to ask AI Practice whatever question you want. | !IMAGE[AI_Practice_Lab_Prompt_Box.png](/images/AI_Practice_Lab_Prompt_Box.png){150} |
 | Submit button | Click to start practicing. | !IMAGE[AI_Practice_Lab_Submit_Button.png](/images/AI_Practice_Lab_Submit_Button.png){30} |
 | Suggest topics | If you're stuck on what to ask, click this to get some recommendations. | !IMAGE[AI_Practice_Lab_Suggest_Topics.png](/images/AI_Practice_Lab_Suggest_Topics.png){100} |
 | | |
