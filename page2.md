@@ -2,7 +2,7 @@
 
 > [+HELP] Don't forget to change the response style. Expand to explore the options...
 >
-> | Level | Description |
+> | Style | Description |
 > | ----- | ----------- |
 > | **Learn** | Provides you with learning information, internet resources, and a set of tasks and sub-tasks to complete. |
 > | **Practice** | Offers a similar experience to "Learn" but without the instructional content. |
