@@ -8,5 +8,3 @@
 > | **Practice** | Offers a similar experience to "Learn" but without the instructional content. |
 > | **Challenge** | Presents you with a real-world scenario that needs to be completed. |
 > |  |  |
-
-***
