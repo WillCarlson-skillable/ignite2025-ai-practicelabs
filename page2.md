@@ -1,4 +1,4 @@
-<div style="text-align: right"><small>Page 2 of 2</small></div>
+<!-- <div style="text-align: right"><small>Page 2 of 2</small></div> -->
 
 > [+HELP] Don't forget to change the response style. Expand to explore the options...
 >
