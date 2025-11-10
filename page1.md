@@ -2,7 +2,6 @@
 
 !IMAGE[PRACTICE_LABS_LOGO.png](/images/PRACTICE_LABS_LOGO.png)
 <br>
-<br>
 
 @lab.Title
 
