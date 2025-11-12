@@ -1,6 +1,6 @@
 <!-- <div style="text-align: right"><small>Page 2 of 2</small></div> -->
 
-> [+HELP]  Expand to learn about response styles...
+> [+HELP]  What's the difference between Learn, Practice, and Challenge?
 >
 > | Style | Description |
 > | ----- | ----------- |
