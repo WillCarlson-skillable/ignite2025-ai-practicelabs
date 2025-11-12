@@ -1,6 +1,7 @@
 <!-- <div style="text-align: right"><small>Page 1 of 2</small></div> -->
 
 !IMAGE[PRACTICE_LABS_LOGO.png](/images/PRACTICE_LABS_LOGO.png)
+<img="https://raw.githubusercontent.com/WillCarlson-skillable/ignite2025-ai-practicelabs/refs/heads/main/images/PRACTICE_LABS_LOGO.png" alt="Skillable Practice Labs Logo Image" style="display:block; margin: 0 auto; width: 50%;">
 <br>
 
 @lab.Title
