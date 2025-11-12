@@ -1,6 +1,6 @@
 <!-- <div style="text-align: right"><small>Page 2 of 2</small></div> -->
 
-> [+HELP] Don't forget to change the response style. Expand to explore the options...
+> [+HELP]  Expand to learn about response styles...
 >
 > | Style | Description |
 > | ----- | ----------- |
