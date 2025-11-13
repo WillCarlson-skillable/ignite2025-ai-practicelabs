@@ -1,6 +1,7 @@
 <!-- <div style="text-align: right"><small>Page 1 of 2</small></div> -->
 
-<img src='https://raw.githubusercontent.com/WillCarlson-skillable/ignite2025-ai-practicelabs/refs/heads/main/images/PRACTICE_LABS_LOGO.png' alt='Skillable Practice Labs Logo Image' style='display:block; margin: 0 auto; width: 50%;'>
+<img src='https://raw.githubusercontent.com/WillCarlson-skillable/ignite2025-ai-practicelabs/refs/heads/main/images/PRACTICE_LABS_LOGO.png' alt='Skillable Practice Labs Logo Image' style='display:block; margin: 0 auto; width: 50%;' id='light_logo'>
+<img src='https://raw.githubusercontent.com/WillCarlson-skillable/ignite2025-ai-practicelabs/refs/heads/main/images/PRACTICE_LABS_LOGO_REVERSE.png' alt='Skillable Practice Labs Logo Image' style='display:block; margin: 0 auto; width: 50%;' id='dark_logo'>
 <br>
 
 @lab.Title
